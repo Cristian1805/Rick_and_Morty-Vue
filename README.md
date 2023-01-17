@@ -1,4 +1,4 @@
-# rick
+# rick and morty search
 
 ## Project setup
 ```
@@ -16,4 +16,5 @@ yarn build
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+El link con el programa en produccion es el siquitente [Configuration Reference]
+(https://jazzy-haupia-73afd1.netlify.app).
